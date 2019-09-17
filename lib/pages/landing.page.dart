@@ -52,7 +52,7 @@ class LandingPage extends StatelessWidget {
                   imagePath: player1,
                   ranking: 29,
                   showRanking: true,
-                  name: "ahmad sukabul",
+                  name: "ahmad sukabulss",
                 ),
               ],
             ),
